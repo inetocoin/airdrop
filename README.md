@@ -6,7 +6,7 @@ Each developer will give 1000 ineto coins.
 
 ### How to get coins
 
-All you need is to generate https://en.wikipedia.org/wiki/Curve25519 public/private keys. 
+All you need is to generate https://en.wikipedia.org/wiki/EdDSA#Ed25519 public/private keys. 
 Base64 on top of public key of Ed25519 and add prefix 'I1' that indicates that it is ineto address of the coin with verison 1.
 
 Make a push request to the file airdrop-1000.txt
